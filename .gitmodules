@@ -1,0 +1,3 @@
+[submodule "Weather-Perdiction"]
+	path = Weather-Perdiction
+	url = https://github.com/dakshsomnathe17-ship-it/Weather-Perdiction.git
